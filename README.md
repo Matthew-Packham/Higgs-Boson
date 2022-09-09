@@ -1,6 +1,6 @@
 # Higgs-Boson
 
-![](Lucas-Higgs-CE0047H.jpeg)
+![](Lucas-Higgs-CE0047H.jpg)
 
 In this project I compare different MLP models to classify the presence of a signal process which produces Higgs boson. I build four models a 'small', 'medium', 'paper' and 'paper regularised'. 
 
