@@ -1,7 +1,7 @@
 # Higgs-Boson
 
 ![](Lucas-Higgs-CE0047H.jpg)
-* Computer simulation of particle traces from an LHC collision in which a Higgs Boson is produced.  (c) CERN. Image credit: Lucas Taylor *
+<sub> Computer simulation of particle traces from an LHC collision in which a Higgs Boson is produced.  (c) CERN. Image credit: Lucas Taylor </sub>
 
 In this project I compare different MLP models to classify the presence of a signal process which produces Higgs boson. I build four models a 'small', 'medium', 'paper' and 'paper regularised'. 
 
