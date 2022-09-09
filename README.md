@@ -1,5 +1,7 @@
 # Higgs-Boson
 
+![](Lucas-Higgs-CE0047H)
+
 In this project I compare different MLP models to classify the presence of a signal process which produces Higgs boson. I build four models a 'small', 'medium', 'paper' and 'paper regularised'. 
 
 The paper model is a reconstruction of the orginal model used in the paper titled:
